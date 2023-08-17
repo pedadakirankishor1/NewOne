@@ -10,6 +10,8 @@ public class EvenPosition {
         for (int i = 1; i < arr.length; i = i+2) {  
             System.out.println(arr[i]);  
             System.out.println("i");  
+           System.out.println(arr[i]);    
+            
         }  
     }  
 }  
